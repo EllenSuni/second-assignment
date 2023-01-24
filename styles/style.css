@@ -1,0 +1,75 @@
+/* HEADER */
+
+header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+nav {
+    padding-left: 150px;
+    font-size: 18px;
+}
+
+
+
+/* MAIN */
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+}
+
+video {
+    width: 250px;
+    margin: 40px;
+}
+
+img {
+    width: 300px;
+    margin: 40px;
+}
+
+ul {
+    margin: 90px;
+    font-size: 20px;
+}
+
+li {
+    margin: 7px;
+}
+
+#meerkat-cat {
+    margin-top: 10px;
+}
+
+#meerkat-div {
+    text-align: center;
+}
+
+#main-text {
+    width: 400px;
+    text-align: center;
+    margin: 0 20px;
+}
+
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#super-cat {
+    width: 240px;
+}
